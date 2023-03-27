@@ -1,0 +1,49 @@
+{
+  "transactions": [
+    {
+      "name": "Academia",
+      "amount": -79.9,
+      "id": 1
+    },
+    {
+      "name": "Faculdade",
+      "amount": -161,
+      "id": 4
+    },
+    {
+      "name": "Conta internet",
+      "amount": -100,
+      "id": 6
+    },
+    {
+      "name": "Dentista",
+      "amount": -70,
+      "id": 7
+    },
+    {
+      "name": "Bike",
+      "amount": -37.9,
+      "id": 8
+    },
+    {
+      "name": "Pagamento",
+      "amount": 1000,
+      "id": 9
+    },
+    {
+      "name": "Rematricula facul",
+      "amount": 65,
+      "id": 10
+    },
+    {
+      "name": "Spotify",
+      "amount": -9.9,
+      "id": 11
+    },
+    {
+      "name": "Gastos com o floki",
+      "amount": -50,
+      "id": 12
+    }
+  ]
+}
