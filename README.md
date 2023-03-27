@@ -28,4 +28,3 @@ npm init -y
 
 # Imagem do projeto: 
 <img src = "images/DevFinanceBlack.png">
-<img src = "images/DevFinanceWhite.png">
