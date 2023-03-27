@@ -27,4 +27,4 @@ npm init -y
 <p> Pronto! o Projeto ja estará rodando na sua local :) </p>
 
 # Imagem do projeto: 
-<img src = "images/DevFinanceBlack.png">
+<img src = "images/DevFinance.png">
